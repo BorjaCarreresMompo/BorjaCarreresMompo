@@ -48,6 +48,5 @@ Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy
 ---
 
 Gracias por visitar mi perfil.
-![CSS3](https://github-readme-stats.vercel.app/api/top-langs/?username={CiberPatata}&theme=blue-green)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
