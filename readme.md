@@ -6,6 +6,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -28,7 +29,7 @@ Colegio Sagrada Familia Alzira
 
 - **Técnico Medio en Sistemas Microinformáticos y Redes**
  Xúquer Centro Educativo 
-- **Técnico superior en Desarrollo de Aplicaciones Multiplataforma** (Cursando)
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** (Cursando)
 
 ### 📚 Aprendizaje Continuo
 
