@@ -20,7 +20,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innov
 
 - **Sistemas Operativos:** Windows, Linux.
 - **Redes:** Configuración de routers y switches, VPN, protocolos TCP/IP.
-- **Programación:** Bash scripting.
+- **Programación:** Bash scripting y Java
 - **Herramientas:** Cisco Packet Tracer.
 - **Seguridad Informática:** Fundamentos de seguridad, firewall, protección de datos.
 
