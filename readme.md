@@ -40,7 +40,7 @@ Colegio Sagrada Familia Alzira
 Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy explorando:
 
 - **Ciberseguridad:** Ampliando mis conocimientos en seguridad informática y protección de redes.
-- - **Programación:** Ampliando mis conocimientos en programación desarrollando aplicaciones en java.
+- **Programación:** Ampliando mis conocimientos en programación desarrollando aplicaciones en java.
 
 
 ### 📫 Cómo Contactarme
