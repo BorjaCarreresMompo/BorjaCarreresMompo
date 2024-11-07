@@ -28,7 +28,7 @@ Colegio Sagrada Familia Alzira
 
 - **Técnico Medio en Sistemas Microinformáticos y Redes**
  Xúquer Centro Educativo 
-- **Desarrollo de Aplicaciones Multiplataforma** (Cursando)
+- **Técnico superior en Desarrollo de Aplicaciones Multiplataforma** (Cursando)
 
 ### 📚 Aprendizaje Continuo
 
