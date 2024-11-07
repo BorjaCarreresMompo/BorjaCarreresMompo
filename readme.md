@@ -49,3 +49,5 @@ Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy
 
 Gracias por visitar mi perfil.
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
