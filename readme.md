@@ -48,6 +48,6 @@ Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy
 ---
 
 Gracias por visitar mi perfil.
-![CSS3](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![CSS3](https://github-readme-stats.vercel.app/api/top-langs/?username={Ciberpatata}&theme=blue-green)
 
 
