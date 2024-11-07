@@ -27,8 +27,8 @@ Colegio Sagrada Familia Alzira
 
 
 - **Técnico Medio en Sistemas Microinformáticos y Redes**
- Xúquer Centro Educativo (En proceso)
-
+ Xúquer Centro Educativo 
+- **Desarrollo de Aplicaciones Multiplataforma** (Cursando)
 
 ### 📚 Aprendizaje Continuo
 
@@ -37,7 +37,7 @@ Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy
 - **Ciberseguridad:** Ampliando mis conocimientos en seguridad informática y protección de redes.
 
 ### 📫 Cómo Contactarme
-- **Correo Electrónico:** bocamo@xuqueralumnat.es
+- **Correo Electrónico:** bocamo@alumnatflorida.es
 - **Número de teléfono:** +34 633908473
 
 ---
